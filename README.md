@@ -6,7 +6,7 @@ Sou desenvolvedor especializado em Linux e Android, atualmente administro um gru
 
 
   - 🔭 Atualmente aprimorando projetos de integralização de comandos UNIX ao Android com Root.
-  - 🌱 Aprendendo atualmente: Java, Arch Linux, TypeScript e Tailwind..
+  - 🌱 Aprendendo atualmente>: Java, Arch Linux, TypeScript e Tailwind..
   - ⚡ Fato curioso sobre mim: eu sou maluco por perfomance no notebook, então eu compilei meu próprio Arch Linux na máquina (essa brincadeira me rendeu 12 horas).
 
 <p align="left">
@@ -16,7 +16,7 @@ Sou desenvolvedor especializado em Linux e Android, atualmente administro um gru
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EricInacio01&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
 
 
 ------
