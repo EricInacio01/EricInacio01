@@ -1,18 +1,73 @@
-<h1 align="center">Olá, meu nome é Eric.</h1>
-<h3 align="center">Desenvolvedor Web aguçado e entusiasta em sistemas Linux. Sou adminstrador de um canal no Telegram com mais de 10,000 membros sobre Android Development. Faço projetos nas horas vagas.</h3>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericinacio01&label=Profile%20views&color=0e75b6&style=flat" alt="ericinacio01" /> </p>
+### Olá, tudo bem? Meu nome é Eric Inácio. 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericinacio01" alt="ericinacio01" /></a> </p>
+Sou desenvolvedor especializado em Linux e Android, atualmente administro um grupo de Android Development com mais de 10.000 membros no Telegram. Nas horas vagas, desenvolvo projetos pessoais e exploro o Arch Linux.
 
-<h3 align="left">Connect with me:</h3>
+
+  - 🔭 Atualmente aprimorando projetos de integralização de comandos UNIX ao Android com Root.
+  - 🌱 Aprendendo atualmente>: Java, Arch Linux, TypeScript e Tailwind..
+  - ⚡ Fato curioso sobre mim: eu sou maluco por perfomance no notebook, então eu compilei meu próprio Arch Linux na máquina (essa brincadeira me rendeu 12 horas).
+
 <p align="left">
+<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
+</a>
+<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericinacio01&show_icons=true&locale=en&layout=compact" alt="ericinacio01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericinacio01&show_icons=true&locale=en" alt="ericinacio01" /></p>
+------
+<h3 align="left">Activity:</h3>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricInacio01&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/EricInacio01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricInacio01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricInacio01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/EricInacio01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricInacio01&&theme=tokyonight" alt="RResabala2015" />
+  </a>
+</p>
+
+------
+<h3 align="left">Linguagens e ferramentas:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Back-end:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,nodejs,express,vite"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Front-end:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Banco de Dados:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Versionamento:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE's:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Outras ferramentas::</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas Operacionais:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=arch"/></td>
+    </tr>
+</table>
+
+------
+Aoooooooo potência
