@@ -7,7 +7,6 @@ Sou desenvolvedor especializado em Linux e Android, atualmente administro um gru
 
   - 🔭 Atualmente aprimorando projetos de integralização de comandos UNIX ao Android com Root.
   - 🌱 Aprendendo atualmente>: Java, Arch Linux, TypeScript e Tailwind..
-  - ⚡ Fato curioso sobre mim: eu sou maluco por perfomance no notebook, então eu compilei meu próprio Arch Linux na máquina (essa brincadeira me rendeu 12 horas).
 
 <p align="left">
 <a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
