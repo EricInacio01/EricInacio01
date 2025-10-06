@@ -1,72 +1,33 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+### Hi there 👋
+I am a science and technology student with an emphasis on computer engineering. I am currently studying at UFRN, in Brazil.
 
-### Olá, tudo bem? Meu nome é Eric Inácio. 👋
+I'm a big enthusiast of operating systems (Android, Linux, MacOS and UNIX-like shells). I used to be a IT teacher, and currently I work on small contributions to the open-source community.
 
-Sou desenvolvedor especializado em Linux e Android, atualmente administro um grupo de Android Development com mais de 10.000 membros no Telegram. Nas horas vagas, desenvolvo projetos pessoais e exploro o Arch Linux.
+#### I code with:
 
-
-  - 🔭 Atualmente aprimorando projetos de integralização de comandos UNIX ao Android com Root.
-  - 🌱 Aprendendo atualmente>: Java, Arch Linux, TypeScript e Tailwind..
-
-<p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EricInacio01&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
-
-
-------
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricInacio01&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/EricInacio01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricInacio01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricInacio01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-  </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
 </div>
-<p align="center">
-  <a href="https://github.com/EricInacio01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricInacio01&&theme=tokyonight" alt="RResabala2015" />
-  </a>
-</p>
 
-------
-<h3 align="left">Linguagens e ferramentas:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Back-end:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,nodejs,express,vite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Front-end:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Banco de Dados:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Versionamento:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE's:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Outras ferramentas::</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas Operacionais:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=arch"/></td>
-    </tr>
-</table>
+###
 
-------
-Aoooooooo potência
+---
+
+My Telegram Channel: https://t.me/aboutme_eric
+My Telegram Group: https://t.me/tabernadoeric
