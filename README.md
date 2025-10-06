@@ -29,5 +29,5 @@ I'm a big enthusiast of operating systems (Android, Linux, MacOS and UNIX-like s
 
 ---
 
-My Telegram Channel: https://t.me/aboutme_eric
-My Telegram Group: https://t.me/tabernadoeric
+- My Telegram Channel: https://t.me/aboutme_eric
+- My Telegram Group: https://t.me/tabernadoeric
